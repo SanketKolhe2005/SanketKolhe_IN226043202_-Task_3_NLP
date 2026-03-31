@@ -25,35 +25,38 @@ This project demonstrates the development of an AI-powered chatbot using Hugging
 1. Install required libraries:
    ```bash
    pip install transformers torch
-2.Open the notebook (chatbot.ipynb)
-3.Run all cells
-4.Start chatting with the bot
 
+2. Open the notebook (Task-3_NLP.ipynb)
+   
+4. Run all cells
+   
+6. Start chatting with the bot  
 
-##💬 Sample Output
+## 💬 Sample Output
 
-You: Hello
-Chatbot: Hello! How can I assist you today?
+You: Hello  
+Chatbot: Hello! How can I assist you today?  
 
-You: What is your name?
-Chatbot: I am an AI chatbot built using Hugging Face Transformers.
+You: What is your name?  
+Chatbot: I am an AI chatbot built using Hugging Face Transformers.  
 
-##📊 Key Concepts Used
-Natural Language Processing (NLP)
-Transformer Models
-Pre-trained Models
-Conversational AI
-Text Generation
+## 📊 Key Concepts Used
 
-##⚠️ Note
+- Natural Language Processing (NLP)  
+- Transformer Models  
+- Pre-trained Models  
+- Conversational AI  
+- Text Generation  
+
+## ⚠️ Note
 
 The chatbot responses may vary because it uses a probabilistic model trained on conversational data.
 
-##📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates how transformer-based models can be used to build intelligent conversational agents efficiently.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-Sanket Kolhe
+Sanket Kolhe  
 Intern ID: IN226043202
